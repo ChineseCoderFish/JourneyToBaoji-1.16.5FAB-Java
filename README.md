@@ -38,7 +38,7 @@ Hi˶ᵒ ᵕ ˂˶✨
 - be like [Genshin Impact](https://www.yuanshen.com/#/) or [WuKong](https://gamesci.cn/wukong/)
 - be a copy of Baoji.you can talk with indigenous peoples and bronzes.
 ## What's the plan about this program?😃
-- Firstly,I'm a beginner,even cannot Java :( .
+- Firstly,I'm new in Java :( .
 - So,I will develop it after entering college～about 3 years after:)
 - We(really only me) will only develop sth about Baoji,
 - but you still be able to travel around world :D
