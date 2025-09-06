@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "journeytobaoji",
+	"version": "${version}",
+	"name": "JourneyToBaoji",
+	"description": "A copy of Baoji in Minecraft",
+	"authors": [
+		"Fish"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": ""
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/journeytobaoji/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.fish.journeytobaoji.JourneyToBaojiMain"
+		]
+	},
+	"mixins": [
+		"journeytobaoji.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.16.5",
+		"java": ">=8",
+		"fabric": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
