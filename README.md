@@ -31,7 +31,7 @@ Hi˶ᵒ ᵕ ˂˶✨
 - To travel around world with few money ToT
 - In the furture,we will cut down computer configuration that it need,in order to cut down money for computer it need.
 ## How's Baoji? o.O
-- Located in Shaanxi Province,China,baoji is my hometown,a happy place:)
+- Located in Shaanxi Province,China,[宝鸡](https://www.travelchinaguide.com/cityguides/shaanxi/baoji/) is my hometown,a happy place:)
 - There are so many montains around us.The Northern of Baoji is West Montain,the center is mini plain,and the southern is QingLing Montains:)
 ## How will mod be like?(✧ω✧)
 - be like [Genshin Impact](https://www.yuanshen.com/#/) or [WuKong](https://gamesci.cn/wukong/)
